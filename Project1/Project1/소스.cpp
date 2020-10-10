@@ -4,6 +4,6 @@ int main() {
 	int b;
 	float a;
 	cin >> a >> b;
-	cout << "a - b = "<<a-b << endl;
+	cout << "a + b = "<< a+b << endl;
 	return 0;
 }
